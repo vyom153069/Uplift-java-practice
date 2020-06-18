@@ -59,3 +59,60 @@
    https://www.youtube.com/watch?v=RGOj5yH7evk </br>
    https://www.youtube.com/watch?v=WbwIoQYP6no </br>
    https://www.youtube.com/watch?v=iR5WIknxdkY </br>
+
+## Assignments submissions:
+- [ ] Sanya 
+    - [x] Assignment 1
+    - [ ] Assignment 2
+    - [ ] Assignment 3
+    - [ ] Assignment 4
+- [ ] Surabhi 
+   - [ ] Assignment 1
+   - [ ] Assignment 2
+   - [ ] Assignment 3
+   - [ ] Assignment 4
+- [ ] Sajag Chauhan
+    - [x] Assignment 1
+    - [ ] Assignment 2
+    - [ ] Assignment 3
+    - [ ] Assignment 4
+ - [ ] Shikha Rajpoot
+    - [x] Assignment 1
+    - [ ] Assignment 2
+    - [ ] Assignment 3
+    - [ ] Assignment 4
+- [ ] Tania Aggarwal
+   - [ ] Assignment 1
+    - [ ] Assignment 2
+    - [ ] Assignment 3
+    - [ ] Assignment 4
+ - [ ] Tanmayi
+    - [ ] Assignment 1
+    - [ ] Assignment 2
+    - [ ] Assignment 3
+    - [ ] Assignment 4
+- [ ] Kritika kanojia
+    - [ ] Assignment 1
+    - [ ] Assignment 2
+    - [ ] Assignment 3
+    - [ ] Assignment 4
+- [ ] Tanya    
+    - [ ] Assignment 1
+    - [ ] Assignment 2
+    - [ ] Assignment 3
+    - [ ] Assignment 4
+ - [ ] Amay Saxena
+    - [x] Assignment 1
+    - [ ] Assignment 2
+    - [ ] Assignment 3
+    - [ ] Assignment 4
+- [ ] Sai Prasanna
+    - [ ] Assignment 1
+    - [ ] Assignment 2
+    - [ ] Assignment 3
+    - [ ] Assignment 4
+   
+ 
+
+
+
