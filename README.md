@@ -61,52 +61,53 @@
    https://www.youtube.com/watch?v=iR5WIknxdkY </br>
 
 ## Assignments submissions:
-- [ ] Sanya 
+Every assignment contains 25 points 
+- [ ] 1.Sanya 
     - [x] Assignment 1
     - [ ] Assignment 2
     - [ ] Assignment 3
     - [ ] Assignment 4
-- [ ] Surabhi 
+- [ ] 2.Surabhi 
    - [ ] Assignment 1
    - [ ] Assignment 2
    - [ ] Assignment 3
    - [ ] Assignment 4
-- [ ] Sajag Chauhan
+- [ ] 3.Sajag Chauhan
     - [x] Assignment 1
     - [ ] Assignment 2
     - [ ] Assignment 3
     - [ ] Assignment 4
- - [ ] Shikha Rajpoot
+ - [ ] 4.Shikha Rajpoot
     - [x] Assignment 1
     - [ ] Assignment 2
     - [ ] Assignment 3
     - [ ] Assignment 4
-- [ ] Tania Aggarwal
+- [ ] 5.Tania Aggarwal
    - [ ] Assignment 1
     - [ ] Assignment 2
     - [ ] Assignment 3
     - [ ] Assignment 4
- - [ ] Tanmayi
+ - [ ] 6.Tanmayi
     - [ ] Assignment 1
     - [ ] Assignment 2
     - [ ] Assignment 3
     - [ ] Assignment 4
-- [ ] Kritika kanojia
+- [ ] 7.Kritika kanojia
     - [ ] Assignment 1
     - [ ] Assignment 2
     - [ ] Assignment 3
     - [ ] Assignment 4
-- [ ] Tanya    
+- [ ] 8.Tanya    
     - [ ] Assignment 1
     - [ ] Assignment 2
     - [ ] Assignment 3
     - [ ] Assignment 4
- - [ ] Amay Saxena
+ - [ ] 9.Amay Saxena
     - [x] Assignment 1
     - [ ] Assignment 2
     - [ ] Assignment 3
     - [ ] Assignment 4
-- [ ] Sai Prasanna
+- [ ] 10.Sai Prasanna
     - [ ] Assignment 1
     - [ ] Assignment 2
     - [ ] Assignment 3
