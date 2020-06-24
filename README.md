@@ -79,7 +79,7 @@ Every assignment contains 25 points
     - [ ] Assignment 4
  - [ ] 4.Shikha Rajpoot
     - [x] Assignment 1
-    - [ ] Assignment 2
+    - [x] Assignment 2
     - [ ] Assignment 3
     - [ ] Assignment 4
 - [ ] 5.Tania Aggarwal
