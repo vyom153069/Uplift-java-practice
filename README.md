@@ -69,7 +69,7 @@ Every assignment contains 25 points
     - [ ] Assignment 4
 - [ ] 2.Sajag Chauhan
     - [x] Assignment 1
-    - [ ] Assignment 2
+    - [x] Assignment 2
     - [ ] Assignment 3
     - [ ] Assignment 4
  - [ ] 3.Shikha Rajpoot
