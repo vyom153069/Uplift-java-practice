@@ -64,7 +64,7 @@
 Every assignment contains 25 points 
 - [ ] 1.Sanya 
     - [x] Assignment 1
-    - [ ] Assignment 2
+    - [x] Assignment 2
     - [ ] Assignment 3
     - [ ] Assignment 4
 - [ ] 2.Surabhi 
